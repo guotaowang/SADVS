@@ -22,4 +22,4 @@ password: if6l
 (e.g., the default matlab path is "C:\Program Files\MATLAB\R2016b\extern\include\mex.h").  
 
 # Usage: 
-main.m  
+run main.m  
