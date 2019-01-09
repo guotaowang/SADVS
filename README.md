@@ -10,7 +10,7 @@ Chenglizhao Chen, Guotao Wang
 4.Video sequences should be added to the '.\sequences\' directory accordingly.  
 
 # Downloads:  
-results on Davis, DS, SegTrack and UCF datasets from  
+Results on Davis, DS, SegTrack and UCF datasets from  
 baidu cloud: https://pan.baidu.com/s/1w0wPZ2wMjv5wZJiwQoMldw  
 password: if6l   
 
