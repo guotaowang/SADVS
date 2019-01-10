@@ -11,8 +11,8 @@ Chenglizhao Chen, Guotao Wang, Chong Peng
 
 # Downloads:  
 Results on Davis, DS, SegTrack and UCF datasets from  
-baidu cloud: https://pan.baidu.com/s/1w0wPZ2wMjv5wZJiwQoMldw  
-password: if6l   
+Baidu cloud: https://pan.baidu.com/s/1w0wPZ2wMjv5wZJiwQoMldw  
+Password: if6l   
 
 # Default path:   
 1.The default installation path of CUDA is: "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\lib\x64\",  
@@ -22,4 +22,9 @@ password: if6l
 (e.g., the default matlab path is "C:\Program Files\MATLAB\R2016b\extern\include\mex.h").  
 
 # Usage: 
-run main.m  
+Run main.m    
+Notice:  
+a.For the convenience of MATLAB debugging, main.m function compares the code length.  
+b.Let Readers read Conveniently, we annotated each part of the code.
+c.The main component of AdaptiveLearning exhibited in line 652-1592.
+
