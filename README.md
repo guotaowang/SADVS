@@ -1,7 +1,7 @@
 The source code of our manuscript submitted to IEEE Access:   
 # 'Structure-aware Adaptive Diffusion for Video Saliency Detection'  
 
-Chenglizhao Chen, Guotao Wang  
+Chenglizhao Chen, Guotao Wang, Chong Peng  
 
 # Prerequisites: 
 1.Visual Studio 2013 x64 enviroument  
