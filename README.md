@@ -22,9 +22,11 @@ Password: if6l
 (e.g., the default matlab path is "C:\Program Files\MATLAB\R2016b\extern\include\mex.h").  
 
 # Usage: 
-Run main.m    
-Notice:  
-a.For the convenience of MATLAB debugging, main.m function compares the code length.  
-b.Let Readers read Conveniently, we annotated each part of the code.
-c.The main component of AdaptiveLearning exhibited in line 652-1592.
+Run main.m 
+
+# Notice:  
+a.For the convenience of MATLAB debugging, main.m function make the code cumbersome.  
+b.Let Readers read Conveniently, we detaily annotated the information each part of the code.  
+c.The main component of Adaptive-Learning exhibited in line 652-1592.  
+d.If you need to make changes to the accelerated code (CUDA), please recompile the file of .cu .  
 
