@@ -26,7 +26,7 @@ Run main.m
 
 # Notice:  
 a. For the convenience of MATLAB debugging, main.m function make the code cumbersome.  
-b. Let Readers read Conveniently, we detaily annotated the information each part of the code.  
+b. Let readers read conveniently, we detaily annotated the information each part of the code.  
 c. The main component of Adaptive-Learning exhibited in line 652-1592.  
-d. If you to make changes to the accelerated code (CUDA), please recompile the file of .cu .  
+d. If you to make changes to the accelerated code (CUDA), please recompile the file of CUDA/*.cu .  
 
